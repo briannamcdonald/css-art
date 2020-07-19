@@ -37,7 +37,7 @@ body {
 
 .flex-direction-row-container {
   display: flex;
-  display-direction: row;
+  flex-direction: row;
   align-items: center;
 }
 
